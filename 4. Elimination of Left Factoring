@@ -1,4 +1,6 @@
-<!--from itertools import takewhile
+<!--
+from itertools 
+import takewhile
 
 s= "S->iEtS|iEtSeS|a"
 
@@ -59,6 +61,8 @@ while(True):
         print("")
     break
 -->
+#####
+
 non_terminal = 'S'
 productions = 'iEtS|iEtSeS|a|iES'
 def left_factoring(productions,non_terminal):
