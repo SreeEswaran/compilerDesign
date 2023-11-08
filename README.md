@@ -1,6 +1,7 @@
 # Compiler Design
 
 Welcome to the Compiler Design Repository!
+
 This repository contains code and resources for learning and building compilers.
 
 ## Getting Started
@@ -8,7 +9,6 @@ This repository contains code and resources for learning and building compilers.
 ### Installation
 
 To use the compilers in this repository, you'll need to follow these installation steps:
-
 1. Clone the repository:
    
     To clone the repository into your local machine
