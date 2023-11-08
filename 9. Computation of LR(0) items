@@ -10,7 +10,6 @@ for i in gram:
 	non_terms.append(i)
 gram["S'"]= [start]
 
-
 new_row = {}
 for i in terms+non_terms:
 	new_row[i]=""
