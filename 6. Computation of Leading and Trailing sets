@@ -4,7 +4,6 @@ a = ["E=E+T",
      "T=F",
      "F=(E)",
      "F=i"]
-
 rules = {}
 terms = []
 for i in a:
