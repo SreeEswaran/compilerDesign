@@ -8,7 +8,6 @@ Give your input in the above variable
     * is the Kleene's Closure operator. You can give star operator after any closing brackets and terminals 
 """
 
-
 _="-"
 
 start = 1 # denotes start of e-nfa table
