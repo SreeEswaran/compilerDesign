@@ -21,7 +21,6 @@ def removeDirectLR(gramA, A):
 	gramA[A+"'"] = tempInCr
 	return gramA
 
-
 def checkForIndirect(gramA, a, ai):
 	if ai not in gramA:
 		return False 
