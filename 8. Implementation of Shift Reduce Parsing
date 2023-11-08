@@ -4,6 +4,7 @@ gram = {
 starting_terminal = "E"
 inp = "2324232$"
 """
+
 # example 2
 gram = {
 	"S":["S+S","S*S","i"]
