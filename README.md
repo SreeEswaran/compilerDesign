@@ -11,14 +11,18 @@ To use the compilers in this repository, you'll need to follow these installatio
 
 1. Clone the repository:
     To clone the repository into your local machine
+   
      -> git clone https://github.com/SreeDeekshithaEswaran/compilerDesign.git
 
-2. To run the code in your local system
+3. To run the code in your local system
+   
     -> cd compilerDesign
+   ##
     -> code ..
+   ##
     -> run required file excluding the output analysis
    
-4. Documentation
+5. Documentation
     For better understanding,internal documentation is provided for each file
 
 
