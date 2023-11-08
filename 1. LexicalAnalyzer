@@ -5,7 +5,6 @@ keywords = {"auto","break","case","char","const","continue","default","do",
 "unsigned","void","volatile","while","printf","scanf","%d","include","stdio.h","main"}
 
 operators = {"+","-","*","/","<",">","=","<=",">=","==","!=","++","--","%"}
-
 delimiters = {'(',')','{','}','[',']','"',"'",';','#',',',''}
 
 def detect_keywords(text):
