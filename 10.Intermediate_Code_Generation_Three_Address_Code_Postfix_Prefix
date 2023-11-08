@@ -26,6 +26,7 @@ def infix_to_postfix(formula):
     return output
 
 ### INFIX ===> PREFIX ###
+
 def infix_to_prefix(formula):
     op_stack = []
     exp_stack = []
