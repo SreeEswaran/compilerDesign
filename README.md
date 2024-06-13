@@ -13,7 +13,7 @@ To use the compilers in this repository, you'll need to follow these installatio
    
     To clone the repository into your local machine
    
-     -> git clone https://github.com/SreeDeekshithaEswaran/compilerDesign.git
+     -> git clone https://github.com/SreeEswaran/compilerDesign.git
 
 ### Open and Run the code
 
